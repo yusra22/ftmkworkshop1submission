@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Yusara/eclipse-workspace/Workshop 1 Submission/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Resources/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Resources/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="Resources/rs2xml.jar"/>
+	<classpathentry kind="lib" path="Resources/swingx-core-1.6.2-2.jar"/>
+	<classpathentry kind="lib" path="Resources/NefAnimacion_V2.1_jdk18.jar"/>
+	<classpathentry kind="lib" path="Resources/RSFoto_v1.0.jar"/>
+	<classpathentry kind="lib" path="Resources/RSProgressBar.jar"/>
+	<classpathentry kind="lib" path="Resources/Circle_Label.jar"/>
+	<classpathentry kind="lib" path="Resources/BlackTabbedPane.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/cmudict04.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/cmulex.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/en_us.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/freetts.jar"/>
+	<classpathentry kind="lib" path="Resources/VoiceJar/mbrola.jar"/>
+	<classpathentry kind="lib" path="Resources/jnotify.jar"/>
+	<classpathentry kind="lib" path="Resources/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Resources/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="Resources/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="Resources/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="Resources/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="Resources/servlet.jar"/>
+	<classpathentry kind="lib" path="Resources/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
